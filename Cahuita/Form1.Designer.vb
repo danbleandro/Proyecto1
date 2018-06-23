@@ -47,7 +47,7 @@ Partial Class Form1
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Arial Rounded MT Bold", 14.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(198, 141)
+        Me.Label2.Location = New System.Drawing.Point(330, 121)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(86, 22)
         Me.Label2.TabIndex = 1
@@ -55,7 +55,7 @@ Partial Class Form1
         '
         'TextBox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(202, 175)
+        Me.TextBox1.Location = New System.Drawing.Point(259, 158)
         Me.TextBox1.Multiline = True
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(234, 20)
@@ -65,7 +65,7 @@ Partial Class Form1
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Arial Rounded MT Bold", 14.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(199, 226)
+        Me.Label3.Location = New System.Drawing.Point(315, 215)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(121, 22)
         Me.Label3.TabIndex = 3
@@ -73,7 +73,7 @@ Partial Class Form1
         '
         'TextBox2
         '
-        Me.TextBox2.Location = New System.Drawing.Point(202, 261)
+        Me.TextBox2.Location = New System.Drawing.Point(259, 255)
         Me.TextBox2.Multiline = True
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(234, 20)
@@ -82,7 +82,7 @@ Partial Class Form1
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("Rockwell", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(294, 324)
+        Me.Button1.Location = New System.Drawing.Point(306, 322)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(142, 30)
         Me.Button1.TabIndex = 6
@@ -92,7 +92,7 @@ Partial Class Form1
         'Button2
         '
         Me.Button2.Font = New System.Drawing.Font("Palatino Linotype", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(294, 438)
+        Me.Button2.Location = New System.Drawing.Point(306, 438)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(142, 34)
         Me.Button2.TabIndex = 7
@@ -102,7 +102,7 @@ Partial Class Form1
         'Button3
         '
         Me.Button3.Font = New System.Drawing.Font("Palatino Linotype", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button3.Location = New System.Drawing.Point(294, 404)
+        Me.Button3.Location = New System.Drawing.Point(306, 404)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(142, 28)
         Me.Button3.TabIndex = 8
@@ -112,7 +112,7 @@ Partial Class Form1
         'Button4
         '
         Me.Button4.Font = New System.Drawing.Font("Palatino Linotype", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button4.Location = New System.Drawing.Point(294, 478)
+        Me.Button4.Location = New System.Drawing.Point(306, 478)
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(142, 40)
         Me.Button4.TabIndex = 9
